@@ -11,16 +11,25 @@
 ![Drumming](https://img.shields.io/badge/Drumming-%F0%9F%A5%81-lightgrey)
 ![Mandarin Chinese](https://img.shields.io/badge/Mandarin-Chinese-red)
 
-👋 Hi, I’m @sergiopdev1981  
-👀 I’m interested in learning and building with Go, Python, and modern backend technologies.  
-💼 I currently work with Go and have experience with Docker, PostgreSQL, and NATS.  
-🌱 I’m planning to start learning Python for backend development and RESTful APIs.  
-🌏 I’m also studying Chinese (Mandarin) as a personal challenge.  
-🥁 I’m a musician, Ramones fanatic but I also listen to Blackpink.  
-💞️ I’m open to collaborate on projects related to backend, APIs, DevOps, and cloud.  
-📫 How to reach me: email... or an issue :)
+# 👋 Hi, I’m @sergiopdev1981
 
-<!---
-sergiopdev1981/sergiopdev1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend Developer | Go & Python Enthusiast**
+
+### About Me
+
+- 👀 Interested in Go, Python, and modern backend technologies.
+- 💼 I currently work with Go and have experience with Docker, PostgreSQL, and NATS.  
+- 🌱 I’m planning to start learning Python for backend development and RESTful APIs.  
+- 🌏 Studying Mandarin Chinese as a personal challenge.
+- 🥁 Musician, Ramones fan, but I also listen to Blackpink.
+- 💞️ Open to collaborate on backend, APIs, DevOps, and cloud projects.
+
+### Contact
+
+- 📫 Email?
+- Or open an issue :)
+
+---
+
+#### Thank you, everyone!  
+谢谢大家！
