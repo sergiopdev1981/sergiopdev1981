@@ -13,23 +13,31 @@
 
 # 👋 Hi, I’m @sergiopdev1981
 
-**Backend Developer | Go & Python Enthusiast**
-
-### About Me
-
-- 👀 Interested in Go, Python, and modern backend technologies.
-- 💼 I currently work with Go and have experience with Docker, PostgreSQL, and NATS.  
-- 🌱 I’m planning to start learning Python for backend development and RESTful APIs.  
-- 🌏 Studying Mandarin Chinese as a personal challenge.
-- 🥁 Musician, Ramones fan, but I also listen to Blackpink.
-- 💞️ Open to collaborate on backend, APIs, DevOps, and cloud projects.
-
-### Contact
-
-- 📫 Email?
-- Or open an issue :)
+### Software Developer | Backend & AI Integration
 
 ---
 
-#### Thank you, everyone!  
-谢谢大家！
+## 🚀 About Me
+
+*   **💻 Software Development:** Backend Developer focused on building resilient, scalable, and concurrent distributed systems. Experienced in microservices, event-driven architecture, and containerized environments.
+*   **🤖 AI Focus (Exploring & Learning):** Actively stepping into the AI ecosystem. Currently learning how to integrate AI capabilities, automated workflows, and LLM APIs into robust backend infrastructures.
+*   **🌏 Languages & Logic:** Blending technical reading in **English (B1)** with the systematic study of **Mandarin Chinese (HSK 2)**. Fascinated by language structures and logical patterns, both in code and linguistics.
+*   **🥁 Beyond the Code:** Musician. Ramones fan by blood, Blackpink listener by choice. 
+
+---
+
+## 🛠️ Conceptual Tech Stack
+
+*   **Architecture & Infra:** Distributed Systems, Event-Driven Architecture, Microservices, Containers
+*   **Data & Messaging:** Relational Databases, High-Performance Messaging Systems
+*   **Current AI Focus:** LLM APIs Integration, Core AI Concepts (Learning)
+*   **Languages:** Spanish (Native), English (B1 - Technical Reading), Mandarin Chinese (HSK 2)
+
+---
+
+## 🤝 Collaboration & Contact
+
+*   💞️ **Open to collaborate on:** Backend systems, foundational AI integrations, cloud-native solutions, and DevOps.
+*   📫 **Reach out:** Open an issue right here in this profile or let's connect!
+
+谢谢大家！ Let's build something solid.
