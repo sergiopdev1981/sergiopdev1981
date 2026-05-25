@@ -35,6 +35,19 @@
 
 ---
 
+## 📦 Featured Project
+
+### [nats-micro-postgres](https://github.com/sergiopdev1981/nats-micro-postgres)
+
+[![Go](https://img.shields.io/badge/Go-1.24-00ADD8?logo=go)](https://golang.org)
+[![NATS](https://img.shields.io/badge/NATS-messaging-27AAE1?logo=nats)](https://nats.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-4169E1?logo=postgresql)](https://postgresql.org)
+
+Microservices in Go communicating via NATS with PostgreSQL persistence.  
+User CRUD operations — each service is independent, communicates exclusively through NATS subjects.
+
+---
+
 ## 🤝 Collaboration & Contact
 
 *   💞️ **Open to collaborate on:** Backend systems, foundational AI integrations, cloud-native solutions, and DevOps.
