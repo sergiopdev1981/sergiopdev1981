@@ -35,7 +35,7 @@
 
 ---
 
-## 📦 Featured Project
+## 📦 Featured Projects
 
 ### [nats-micro-postgres](https://github.com/sergiopdev1981/nats-micro-postgres)
 
@@ -45,6 +45,15 @@
 
 Microservices in Go communicating via NATS with PostgreSQL persistence.  
 User CRUD operations — each service is independent, communicates exclusively through NATS subjects.
+
+### [estudiandomandarin](https://github.com/sergiopdev1981/estudiandomandarin)
+
+[![Estado](https://img.shields.io/badge/status-active-2ea44f)](https://github.com/sergiopdev1981/estudiandomandarin)
+[![Mandarín](https://img.shields.io/badge/mandar%C3%ADn-%E4%B8%AD%E6%96%87-e63946)](https://github.com/sergiopdev1981/estudiandomandarin)
+[![Español](https://img.shields.io/badge/idioma-espa%C3%B1ol-f4a261)](https://github.com/sergiopdev1981/estudiandomandarin)
+
+Recursos y ejercicios para aprender chino mandarín desde español.  
+Expresiones diarias, práctica con IA, y preguntas organizadas por niveles HSK.
 
 ---
 
